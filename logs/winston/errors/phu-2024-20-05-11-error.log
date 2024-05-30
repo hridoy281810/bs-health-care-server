@@ -1,0 +1,30 @@
+Mon May 20 2024 11:47:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+The column `appointments.notes` does not exist in the current database.
+Mon May 20 2024 11:48:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+The column `appointments.notes` does not exist in the current database.
+Mon May 20 2024 11:49:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+The column `appointments.notes` does not exist in the current database.
+Mon May 20 2024 11:50:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+The column `appointments.notes` does not exist in the current database.
+Mon May 20 2024 11:51:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+The column `appointments.notes` does not exist in the current database.
+Mon May 20 2024 11:54:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+The column `appointments.notes` does not exist in the current database.

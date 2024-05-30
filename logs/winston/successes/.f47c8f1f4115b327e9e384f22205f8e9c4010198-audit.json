@@ -1,0 +1,125 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\.f47c8f1f4115b327e9e384f22205f8e9c4010198-audit.json",
+    "files": [
+        {
+            "date": 1715841853957,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-16-05-12-success.log",
+            "hash": "bc57d2c0bb77d57f1274c573208510dd366a012cbe95d1a0384565ba1807eba5"
+        },
+        {
+            "date": 1715842986233,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-16-05-13-success.log",
+            "hash": "055bc7e73b344d07b145fe6edfdc5611ba580f97c406304476655a25b9644923"
+        },
+        {
+            "date": 1715847303024,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-16-05-14-success.log",
+            "hash": "5e04a82c6cb5c28a22884d3aa0cc89599810cb0c62f6339b98b85c03d1f40e9c"
+        },
+        {
+            "date": 1715861027852,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-16-05-18-success.log",
+            "hash": "90868a450d424820f7dfc37f7f23e5f87fdee2429fa7b5266856f51c5fe02126"
+        },
+        {
+            "date": 1715866382371,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-16-05-19-success.log",
+            "hash": "7a1679ec9e3ff8e98c3181d117f13098d52d1c6bf107f7022d4c2b1bad4d8f4e"
+        },
+        {
+            "date": 1716181917232,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-20-05-11-success.log",
+            "hash": "fd921fc75053da6f19a1420ae5545fff2c4f89c366cff56fe3edb89eff3ce49f"
+        },
+        {
+            "date": 1716185197966,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-20-05-12-success.log",
+            "hash": "d40045f4d5d824bf0725662667341cc2d1d70279fdc058a92acce04b83db5932"
+        },
+        {
+            "date": 1716268686884,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-21-05-11-success.log",
+            "hash": "c622e011e2a58ee17e4513df5d1f59aedef9334117d20297e2b1590066155bcb"
+        },
+        {
+            "date": 1716274886135,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-21-05-13-success.log",
+            "hash": "5255358c9e7f8382121f182435f2d4fbc23d5b9046d8bf93b67851bafc05f32b"
+        },
+        {
+            "date": 1716439951543,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-23-05-10-success.log",
+            "hash": "d61c0e9e344220e0eb8cde8701833392fbc1d2aa55453a1b8281f5ed02235c14"
+        },
+        {
+            "date": 1716443464873,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-23-05-11-success.log",
+            "hash": "ddfb272f7f2a7e0e4066e99f61bc063ab74581a989717fe51daf30c9f76942c6"
+        },
+        {
+            "date": 1716525281511,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-24-05-10-success.log",
+            "hash": "321fe13cc7fdc703ed4f4d7366596e37fc3767070671e17c5c605005fce831bc"
+        },
+        {
+            "date": 1716547406351,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-24-05-16-success.log",
+            "hash": "ed03653f29245d246e3e667485e65e48e496900445da1c7d8356e3ce74468d5e"
+        },
+        {
+            "date": 1716788394001,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-27-05-11-success.log",
+            "hash": "32444faf35aa81201b385ec0be942074dcdc147983d3903c079de527304dfda5"
+        },
+        {
+            "date": 1716789881714,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-27-05-12-success.log",
+            "hash": "5695a3845604c3328f73dfee7eb9f7282a79a20b7709f4df58b7f64a330ae603"
+        },
+        {
+            "date": 1716801190033,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-27-05-15-success.log",
+            "hash": "d5344a65b69e80fc43c794ed4fb758e9e0d9c2e2165725e6002e46037e0e40ce"
+        },
+        {
+            "date": 1716873185877,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-28-05-11-success.log",
+            "hash": "f71ce613767a7b487d1635b20268bea0a013e7cdbdad0d0bc0bc82e96157a979"
+        },
+        {
+            "date": 1716885971509,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-28-05-14-success.log",
+            "hash": "e6ba21fc06b32b4e3173224bfff0b284039707cb896dadadc1fb0088cc886973"
+        },
+        {
+            "date": 1716958936374,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-29-05-11-success.log",
+            "hash": "dcff2d1fa3cca460f82b3c4711c0cfc9e418d6c44420a20f087189a02b72e41f"
+        },
+        {
+            "date": 1716965893618,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-29-05-12-success.log",
+            "hash": "39be6dd95853857b4ab580776f4722cb63ac3a71c029ed47a0c76aa9a54f1ab4"
+        },
+        {
+            "date": 1716980275660,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-29-05-16-success.log",
+            "hash": "02a5b5a4d65aa2cf322fc12ec78441ae11c330d39189c8206659627378617faa"
+        },
+        {
+            "date": 1716987558805,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-29-05-18-success.log",
+            "hash": "09ebbe7b1160b51e60e1f702a695a5012d26933fe39f592081f11e189c6c5867"
+        },
+        {
+            "date": 1717046412913,
+            "name": "C:\\Users\\BS733\\Documents\\level2-frontend\\next-js-project\\helthcrare\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-30-05-11-success.log",
+            "hash": "c1de861c5ee8659b94cb121bb1b75e76a26afc0c2edba7e9ef8e5d792f9733e4"
+        }
+    ],
+    "hashType": "sha256"
+}

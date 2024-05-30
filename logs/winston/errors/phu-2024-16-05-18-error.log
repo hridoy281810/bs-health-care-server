@@ -1,0 +1,5 @@
+Thu May 16 2024 18:13:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+The column `appointments.notes` does not exist in the current database.
